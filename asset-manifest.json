@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/self-healing-router/static/css/main.c9a38a88.css",
+    "main.js": "/self-healing-router/static/js/main.673a0bee.js",
+    "static/js/787.4e165f47.chunk.js": "/self-healing-router/static/js/787.4e165f47.chunk.js",
+    "index.html": "/self-healing-router/index.html",
+    "main.c9a38a88.css.map": "/self-healing-router/static/css/main.c9a38a88.css.map",
+    "main.673a0bee.js.map": "/self-healing-router/static/js/main.673a0bee.js.map",
+    "787.4e165f47.chunk.js.map": "/self-healing-router/static/js/787.4e165f47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9a38a88.css",
+    "static/js/main.673a0bee.js"
+  ]
+}
